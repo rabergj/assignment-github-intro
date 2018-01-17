@@ -18,7 +18,7 @@
 
 
 ![Caption: Me doing something fun](images/example.jpg "Title: Me doing something fun")
-
+![The Camping Jaguar](images/Camping_jaguar.jpg "Camping jaguar")
 
 ## 4. ???
 
