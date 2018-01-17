@@ -1,6 +1,6 @@
 # Assignment: Introduction to GitHub and R
 
-## 1. Name:
+## 1. Name: Jonathan Raberg
 
 > Add your name in the heading above.
 
@@ -8,9 +8,9 @@
 
 > List three goals you would like to accomplish through this class. This can be anything from things you'd like to know, skills you'd like to learn or improve, concepts you'd like to understand or apply, etc.
 
-1.  
-2.  
-3.  
+1.  Fractionation in biogeochemical processes and biosynthetic pathways
+2.  R programming in general
+3.  When an interpretation of an isotopic data set is reasonable and when it is problematic
 
 ## 3. Something fun
 
